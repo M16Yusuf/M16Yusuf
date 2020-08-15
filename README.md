@@ -35,6 +35,7 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 </a>
 
 <br>
+<br>
 
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=radical)](https://github.com/M16Yusuf/github-readme-stats)
  
