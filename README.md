@@ -37,12 +37,11 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
+
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
  
-<br>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
 
 <!--
