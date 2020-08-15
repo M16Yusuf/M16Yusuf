@@ -19,19 +19,19 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 </ul>
 
 <a href="https://www.instagram.com/m16yusuf/">
-  <img align="left" alt="m16yusuf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/M16Yusuf">
-  <img align="left" alt="m16yusuf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://web.facebook.com/m16yusuff">
-  <img align="left" alt="m16yusuf's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@m16yusuf">
-  <img align="left" alt="m16yusuf's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://steamcommunity.com/id/kayuno">
-  <img align="left" alt="Kayuno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+  <img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
 
 <br>
