@@ -37,7 +37,7 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 <details>
   <summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
   <br />
-  [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf)] (https://github.com/anuraghazra/github-readme-stats)
  </details>
 
 
