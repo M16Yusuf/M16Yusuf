@@ -38,17 +38,6 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 <a href="https://steamcommunity.com/id/kayuno">
 <img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
-
-<br>
-<br>
-
-<details>
-<summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
-<br />
-
-[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
-
-</details>
   
 </td>
 <td>
@@ -62,8 +51,14 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 </td>
 </tr>
 <table>
+<br>
+<details>
+<summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
+<br />
 
+[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
 
+</details>
 
 
 
