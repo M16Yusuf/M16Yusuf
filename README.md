@@ -1,7 +1,9 @@
 ### Hi👋
 
+<img align="right" alt="GIF" src="https://9gag.com/gag/aVYzYmK" />
+
 nama saya Muhammad yusuf 
-saya hanya seorang mahasiswa yang mengambil Jurusan Teknik Informatika 
+saya seorang mahasiswa yang mengambil Jurusan Teknik Informatika 
 di Universitas Komputer Indonesia.
 
 Alasan kenapa saya masuk jurusan teknik informatika adalah karena keinginan 
@@ -39,10 +41,11 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
+<details>
+<summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
+  <br />
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
- 
-
-
+ </details>
 
 <!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
