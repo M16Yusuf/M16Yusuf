@@ -53,11 +53,12 @@ memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra.
 
   </details>
 
-  <div class="content" align="right">
+  <div class="content">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
   </div>
+  
 </div>
 <!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
