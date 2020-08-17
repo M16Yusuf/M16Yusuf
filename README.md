@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/pHZ8BBgLaXPliFNudh/giphy.gif" />
 
-nama saya Muhammad yusuf 
-saya seorang mahasiswa yang mengambil Jurusan Teknik Informatika 
+nama saya Muhammad yusuf seorang mahasiswa Jurusan Teknik Informatika 
 di Universitas Komputer Indonesia.
 
 Alasan kenapa saya masuk jurusan teknik informatika adalah karena keinginan 
