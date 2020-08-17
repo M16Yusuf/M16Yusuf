@@ -1,6 +1,6 @@
 ### Hi👋
 
-<img align="right" alt="GIF" src="https://9gag.com/gag/aVYzYmK" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/pHZ8BBgLaXPliFNudh/giphy.gif" />
 
 nama saya Muhammad yusuf 
 saya seorang mahasiswa yang mengambil Jurusan Teknik Informatika 
