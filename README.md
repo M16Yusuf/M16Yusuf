@@ -15,7 +15,7 @@ memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra.
 
 <div class="content">
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
 </div>
 
