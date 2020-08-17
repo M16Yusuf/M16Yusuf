@@ -13,10 +13,10 @@ Tahun pertama memang begitu berat tidak mengetahui apa itu pemograman seperti ap
 pemograman. Rasanya seperti tenggelam di luasnya samudra, tapi beruntungnya saya 
 memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra. 
 
-<div class="content">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
-</div>
-
+<table>
+<tr>
+<td>
+  
 Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari :
 <ul>
 <li>Java </li>
@@ -49,6 +49,25 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
 
 </details>
+  
+</td>
+<td>
+
+<div class="content">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
+
+</div>
+
+</td>
+</tr>
+<table>
+
+
+
+
+
+
 
   
 <!--
