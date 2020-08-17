@@ -37,11 +37,13 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 
 <br>
 <br>
+<div class="content" align="right">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
+</div>
 <details>
-<summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
+<summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
   <br />
   
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
