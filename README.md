@@ -13,53 +13,46 @@ Tahun pertama memang begitu berat tidak mengetahui apa itu pemograman seperti ap
 pemograman. Rasanya seperti tenggelam di luasnya samudra, tapi beruntungnya saya 
 memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra. 
 
+<div class="content">
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
-<div class="flex-container" display: flex;
-    flex-wrap: wrap; margin: auto;
-    align-items: center;
-    justify-content: center;>
-
-  Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari :
-  <ul>
-    <li>Java </li>
-    <li>javaScript </li>
-  </ul>
-
-  <a href="https://www.instagram.com/m16yusuf/">
-    <img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://twitter.com/M16Yusuf">
-    <img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://web.facebook.com/m16yusuff">
-    <img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  <a href="https://medium.com/@m16yusuf">
-    <img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-  </a>
-  <a href="https://steamcommunity.com/id/kayuno">
-    <img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-  </a>
-
-  <br>
-  <br>
-
-  <details>
-  <summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
-    <br />
-
-  [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
-
-  </details>
-
-  <div class="content">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
-
-  </div>
-  
 </div>
+
+Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari :
+<ul>
+<li>Java </li>
+<li>javaScript </li>
+</ul>
+
+<a href="https://www.instagram.com/m16yusuf/">
+<img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/M16Yusuf">
+<img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://web.facebook.com/m16yusuff">
+<img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://medium.com/@m16yusuf">
+<img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://steamcommunity.com/id/kayuno">
+<img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+</a>
+
+<br>
+<br>
+
+<details>
+<summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
+<br />
+
+[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
+
+</details>
+
+  
 <!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
