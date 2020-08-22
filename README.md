@@ -35,6 +35,11 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 <a href="https://medium.com/@m16yusuf">
 <img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+<a href="https://stackoverflow.com/users/11044690/m16yusuf">
+<img align="left" alt="stackOverflow" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
 <a href="https://www.dicoding.com/users/401199">
 <img align="left" alt="Muhammad Yusuf Profile Dicoding" target="#" width="22px" src="https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png" />
 </a>
