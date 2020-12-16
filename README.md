@@ -23,35 +23,10 @@
 
 <br>
 <br>
-Saya Muhammad yusuf seorang mahasiswa Jurusan Teknik Informatika 
-di Universitas Komputer Indonesia.
 
-Alasan kenapa saya masuk jurusan teknik informatika adalah karena keinginan 
-orang tua saya yang bahkan tidak mengetahui apa itu Teknik Informatika, 
-yang mereka inginkan hanya anaknya ini bisa kerja kantoran di didepan Komputer saja.
-
-Tahun pertama memang begitu berat tidak mengetahui apa itu pemograman seperti apakah 
-pemograman. Rasanya seperti tenggelam di luasnya samudra, tapi beruntungnya saya 
-memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra. 
-
-
-
-<table>
-<tr>
-<td>
-  
-Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari :
-<ul>
-<li>Java </li>
-<li>javaScript </li>
-</ul>
-
-
-
-
-  
-</td>
-<td>
+Hello 👋 , im Muhammad Yusuf student from Indonesian Computer Unviersity.
+there is nothing here, only repositories of course assignments.
+Hopefully there is something useful for you.
 
 <div class="content">
   
