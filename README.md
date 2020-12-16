@@ -1,5 +1,3 @@
-### Hi👋
-
 <a href="https://twitter.com/M16Yusuf">
 <img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
