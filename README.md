@@ -26,6 +26,8 @@ Hello 👋 , im Muhammad Yusuf student from Indonesian Computer University.
 there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
+<br>
+
 <div class="content">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
