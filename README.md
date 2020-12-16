@@ -1,5 +1,24 @@
 ### Hi👋
 
+<a href="https://twitter.com/M16Yusuf">
+<img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/m16yusuf/">
+<img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://web.facebook.com/m16yusuff">
+<img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://medium.com/@m16yusuf">
+<img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://stackoverflow.com/users/11044690/m16yusuf">
+<img align="left" alt="stackOverflow" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://steamcommunity.com/id/kayuno">
+<img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+</a>
+
 <img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" />
 
 Saya Muhammad yusuf seorang mahasiswa Jurusan Teknik Informatika 
@@ -23,29 +42,7 @@ Saya masih awam dalam dunia Pemrograman, beberapa hal yang saya sedang pelajari 
 <li>javaScript </li>
 </ul>
 
-<a href="https://www.instagram.com/m16yusuf/">
-<img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/M16Yusuf">
-<img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://web.facebook.com/m16yusuff">
-<img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@m16yusuf">
-<img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
-<a href="https://stackoverflow.com/users/11044690/m16yusuf">
-<img align="left" alt="stackOverflow" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
-<a href="https://www.dicoding.com/users/401199">
-<img align="left" alt="Muhammad Yusuf Profile Dicoding" target="#" width="22px" src="https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png" />
-</a>
-<a href="https://steamcommunity.com/id/kayuno">
-<img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-</a>
 
 
   
