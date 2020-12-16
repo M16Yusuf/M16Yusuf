@@ -32,13 +32,10 @@ Hopefully there is something useful for you.
 
 </div>
 
-</td>
-</tr>
-<table>
 <br>
 <details>
 <summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
-<br />
+<br>
 
 [![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
 
