@@ -28,8 +28,6 @@ Hopefully there is something useful for you.
 
 <br>
 
-
-
 <details>
 <summary> <b> Most Used Languages </b> <i>(click to expand!)</i> </summary>
 <div class="content">
@@ -39,9 +37,6 @@ Hopefully there is something useful for you.
 </div>
 </details>
 
-
-
-<br>
 <details>
 <summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
 <br>
