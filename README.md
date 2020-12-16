@@ -21,7 +21,8 @@
 
 <img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" />
 
-<p>
+<br>
+
 Saya Muhammad yusuf seorang mahasiswa Jurusan Teknik Informatika 
 di Universitas Komputer Indonesia.
 
@@ -32,7 +33,7 @@ yang mereka inginkan hanya anaknya ini bisa kerja kantoran di didepan Komputer s
 Tahun pertama memang begitu berat tidak mengetahui apa itu pemograman seperti apakah 
 pemograman. Rasanya seperti tenggelam di luasnya samudra, tapi beruntungnya saya 
 memiliki teman yang bisa menuntun dan tidak membiarkanku tenggelam di Samudra. 
-</p>
+
 
 
 <table>
