@@ -22,7 +22,7 @@
 <br>
 <br>
 
-Hello 👋 , im Muhammad Yusuf student from Indonesian Computer Unviersity.
+Hello 👋 , im Muhammad Yusuf student from Indonesian Computer University.
 there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
