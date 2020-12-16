@@ -28,11 +28,18 @@ Hopefully there is something useful for you.
 
 <br>
 
+
+
+<detail>
+<summary> <b> Most Used Languages </b> <i>(click to expand!)</i> </summary>
 <div class="content">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
 </div>
+</detail>
+
+
 
 <br>
 <details>
