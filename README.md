@@ -13,9 +13,7 @@
 <a href="https://stackoverflow.com/users/11044690/m16yusuf">
 <img align="left" alt="stackOverflow" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://steamcommunity.com/id/kayuno">
-<img align="left" alt="Kayuno" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-</a>
+
 
 <br>
 <br>
