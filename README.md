@@ -12,9 +12,9 @@ Hopefully there is something useful for you.
 ## Social 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
-[![Instagram]](https://www.instagram.com/m16yusuf/)
-[![Medium]](https://medium.com/@m16yusuf)
-[![Stackoverflow]](https://stackoverflow.com/users/11044690/m16yusuf)
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m16yusuf/)
+[![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-0077B5?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/11044690/m16yusuf)
 
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
