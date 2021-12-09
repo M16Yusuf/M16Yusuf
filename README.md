@@ -14,7 +14,7 @@ Hopefully there is something useful for you.
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-750404?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m16yusuf/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/11044690/m16yusuf)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ffffff?style=for-the-badge&logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/11044690/m16yusuf)
 
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
