@@ -1,10 +1,8 @@
+## Hello, im Yusuf 👋
 
-## Hello 👋
-
-Hello 👋 , im Muhammad Yusuf student from Indonesian Computer University.
+My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
-
 
 ## My Stats 📊
 |Github Stats|Most used Languages|
@@ -12,27 +10,11 @@ Hopefully there is something useful for you.
 |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|
 
 ## Social 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
+[![Instagram]](https://www.instagram.com/m16yusuf/)
+[![Medium]](https://medium.com/@m16yusuf)
+[![Stackoverflow]](https://stackoverflow.com/users/11044690/m16yusuf)
 
-<a href="https://twitter.com/M16Yusuf">
-<img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/m16yusuf/">
-<img align="left" alt="m16yusuf's Instagram" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://web.facebook.com/m16yusuff">
-<img align="left" alt="m16yusuf's Facebook" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@m16yusuf">
-<img align="left" alt="m16yusuf's Medium" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11044690/m16yusuf">
-<img align="left" alt="stackOverflow" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
-
-
-  
-<!--
-**M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<!-- 
+**M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
