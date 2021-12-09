@@ -1,36 +1,17 @@
 
 ## Hello 👋
 
-<br>
-<br>
-
 Hello 👋 , im Muhammad Yusuf student from Indonesian Computer University.
 there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
-<br>
 
-## 📊 My Stats
-|Github Stats|Languages|
+## My Stats 📊
+|Github Stats|Most used Languages|
 |---|---|
 |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
-<details>
-<summary> <b> Most Used Languages </b> <i>(click to expand!)</i> </summary>
-<div class="content">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
-
-</div>
-</details>
-
-<details>
-<summary> <b> My Github Statistic </b> <i>(click to expand!)</i> </summary>
-<br>
-
-[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)
-
-</details>
+## Social 
 
 <a href="https://twitter.com/M16Yusuf">
 <img align="left" alt="m16yusuf's Twitter" target="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
