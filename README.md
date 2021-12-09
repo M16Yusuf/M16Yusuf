@@ -9,7 +9,7 @@ Hopefully there is something useful for you.
 |---|---|
 |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|
 
-## Social 
+## Social ✨
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-750404?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m16yusuf/)
