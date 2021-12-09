@@ -1,5 +1,5 @@
 
-<h1>Hello 👋</h1>
+## Hello 👋
 
 <br>
 <br>
@@ -9,6 +9,11 @@ there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
 <br>
+
+## 📊 My Stats
+|Github Stats|Languages|
+|---|---|
+|[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=dark)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf)](https://github.com/M16Yusuf/github-readme-stats)
 
 <details>
 <summary> <b> Most Used Languages </b> <i>(click to expand!)</i> </summary>
