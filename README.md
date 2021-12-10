@@ -16,7 +16,6 @@ Hopefully there is something useful for you.
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ffffff?style=for-the-badge&logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/11044690/m16yusuf)
 
-<br>
 <!-- Social media but for fun-->
 
 [![Twitter](https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
