@@ -26,6 +26,6 @@ Portfolio **Coming soon**
 [![Spotify](https://img.shields.io/badge/Spotify-00c220?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 
 
-[![Other Social Media](https://img.shields.io/badge/Linktree-00c220?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
+[![Other Social Media](https://img.shields.io/badge/Linktree-00a613?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
