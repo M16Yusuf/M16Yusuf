@@ -1,10 +1,13 @@
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hello, im Yusuf 👋
+## Hello 👋
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
-there is nothing here, only repositories of course assignments.
+I love playing game, visual art, and little photography. 
+im curently learning `next.js`, and basic of UI UX Design.
+
+There is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
