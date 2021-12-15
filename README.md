@@ -11,8 +11,6 @@ Portfolio **Coming soon**
 
 ## Tools, Languages, and Frameworks I Know and Study
 
-[![Linkedin](https://img.shields.io/icon/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-
 
 ## My Stats 📊
 |Github Stats|Most used Languages|
