@@ -7,7 +7,7 @@
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
 I love playing game, visual art, and little photography. 
-im curently learning `next.js`, and basic of `UI UX Design`.
+I'm curently learning `next.js`, and basic of `UI UX Design`.
 
 There is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
