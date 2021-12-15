@@ -1,10 +1,18 @@
+<!-- 
+**M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hello, im Yusuf 👋
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
+
 there is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
+
+## Tools, Languages, and Frameworks I Know and Study
+
+[![Linkedin](https://img.shields.io/icon/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
 
 ## My Stats 📊
 |Github Stats|Most used Languages|
@@ -27,5 +35,3 @@ Portfolio **Coming soon**
 
 
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
-<!-- 
-**M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
