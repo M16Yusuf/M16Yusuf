@@ -11,8 +11,8 @@ Portfolio **Coming soon**
 
 ## Tools, Languages, and Frameworks I Know and Study
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
 ## My Stats 📊
 |Github Stats|Most used Languages|
