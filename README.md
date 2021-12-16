@@ -2,7 +2,7 @@
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" width="340px" src="./foto_Manglayang_2020.jpg">
+<img align="right" width="300px" src="./foto_Manglayang_2020.jpg">
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
