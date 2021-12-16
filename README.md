@@ -48,7 +48,7 @@ Portfolio **Coming soon**
 [![Twitter](https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-9e0054?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/M16Yusuf/)
 [![Facebook](https://img.shields.io/badge/Facebook-00368c?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/m16yusuff/)
-[![Spotify](https://img.shields.io/badge/Spotify-00c220?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 
 
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
