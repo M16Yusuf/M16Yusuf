@@ -2,7 +2,7 @@
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.instagram.com/tertawadalamgelap/" target="blank">
+<a href="https://www.instagram.com/tertawadalamgelap/" target="#">
     <img align="right" width="320px" src="./foto_Manglayang_2020.jpg">
 </a>
 
