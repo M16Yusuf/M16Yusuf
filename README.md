@@ -16,7 +16,7 @@ Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
 
-## :hammer_and_wrench: Tools, Languages, and Frameworks I Know and Study
+## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
