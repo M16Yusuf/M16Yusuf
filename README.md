@@ -1,6 +1,6 @@
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
 
 <a href="https://www.instagram.com/tertawadalamgelap/" target="#">
     <img align="right" width="320px" src="./foto_Manglayang_2020.jpg">
@@ -16,7 +16,7 @@ Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
 
-## Tools, Languages, and Frameworks I Know and Study
+## :hammer_and_wrench: Tools, Languages, and Frameworks I Know and Study
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -33,7 +33,7 @@ Portfolio **Coming soon**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
-## Social ✨
+## ✨ Social 
 <!-- Social media but Produktivity -->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
@@ -49,7 +49,7 @@ Portfolio **Coming soon**
 
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
-## My Stats 📊
+## 📊 My Stats 
 |Github Stats|Most used Languages|
 |---|---|
 |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|
