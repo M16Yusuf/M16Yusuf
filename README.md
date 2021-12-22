@@ -3,7 +3,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
 
 <a href="https://www.instagram.com/tertawadalamgelap/" target="#">
-    <img align="right" width="320px" src="./foto_Manglayang_2020.jpg">
+    <img align="center" width="840px" src="https://imgur.com/wZaLJ4Z">
 </a>
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
