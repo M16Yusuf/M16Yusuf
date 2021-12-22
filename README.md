@@ -6,6 +6,7 @@
     <img align="center" width="840px" src="https://i.imgur.com/wZaLJ4Z.png">
 </a>
 
+<br>
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
 I love playing game, visual art, and little photography. 
