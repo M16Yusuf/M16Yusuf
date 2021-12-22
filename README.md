@@ -1,11 +1,10 @@
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
-
 <a href="https://linktr.ee/M16Yusuf" target="#">
     <img align="center" width="840px" src="https://i.imgur.com/wZaLJ4Z.png">
 </a>
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
