@@ -2,8 +2,8 @@
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
 
-<a href="https://www.instagram.com/tertawadalamgelap/" target="#">
-    <img align="center" width="840px" src="https://imgur.com/wZaLJ4Z">
+<a href="https://linktr.ee/M16Yusuf" target="#">
+    <img align="center" width="840px" src="https://imgur.com/gallery/vaQG41r">
 </a>
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
