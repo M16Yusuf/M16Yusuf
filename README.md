@@ -7,6 +7,7 @@
 </a>
 
 <br>
+
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
 
 I love playing game, visual art, and little photography. 
