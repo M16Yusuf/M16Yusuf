@@ -52,4 +52,5 @@ Portfolio **Coming soon**
 ## 📊 My Stats 
 |Github Stats|Most used Languages|
 |---|---|
-|[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=vue)](https://github.com/M16Yusuf/github-readme-stats)
+|[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=vue)](https://github.com/M16Yusuf/github-readme-stats)|
