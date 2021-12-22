@@ -3,7 +3,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
 
 <a href="https://linktr.ee/M16Yusuf" target="#">
-    <img align="center" width="840px" src="https://imgur.com/gallery/vaQG41r">
+    <img align="center" width="840px" src="https://i.imgur.com/wZaLJ4Z.png">
 </a>
 
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
