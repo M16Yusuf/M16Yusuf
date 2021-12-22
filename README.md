@@ -6,18 +6,16 @@
     <img align="center" width="840px" src="https://i.imgur.com/wZaLJ4Z.png">
 </a>
 
-<br>
-
+<p>
 My name is **Muhammad Yusuf** a student from Indonesian Computer University.
-
 I love playing game, visual art, and little photography. 
 I'm curently learning `next.js`, and basic of `UI UX Design`.
-
 There is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
-
+</p>
+<p>
 Portfolio **Coming soon**
-
+</p>
 ## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
