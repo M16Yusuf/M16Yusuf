@@ -48,10 +48,9 @@ Portfolio **Coming soon**
 [![Facebook](https://img.shields.io/badge/Facebook-00368c?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/m16yusuff/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 
-
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
 ## 📊 My Stats 
-|Github Stats|Most used Languages|
+| Most used Languages | Github Stats |
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
