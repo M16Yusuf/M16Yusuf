@@ -49,5 +49,5 @@ Portfolio **Coming soon**
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
 
-[![Discord Presence align="right" ](https://lanyard-profile-readme.vercel.app/api/668415216878616601
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668415216878616601
                             )](https://discord.com/users/668415216878616601)
