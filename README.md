@@ -23,7 +23,7 @@ Portfolio **Coming soon**
  | [![Discord Presence](https://lanyard.cnrad.dev/api/668415216878616601?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
  
  
-           
+<details><summary>Click to expand!</summary>          
 
 ## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
@@ -33,6 +33,7 @@ Portfolio **Coming soon**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,10 +47,12 @@ Portfolio **Coming soon**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ffffff?style=flat&logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/11044690/m16yusuf)
+
 [![Twitter](https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/M16Yusuf/)
 [![Facebook](https://img.shields.io/badge/Facebook-00368c?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/m16yusuff/)
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
-
+</details>
