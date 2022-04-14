@@ -17,6 +17,14 @@ Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
 
+ 
+ | Im active on discord | Most used Languages |
+ |---|---|
+ | [![Discord Presence](https://lanyard.cnrad.dev/api/668415216878616601?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
+ 
+ 
+           
+
 ## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -44,11 +52,4 @@ Portfolio **Coming soon**
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
-## 📊 My Stats 
-| Most used Languages | Github Stats |
-|---|---|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668415216878616601)](https://discord.com/users/668415216878616601)
-                            
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=668415216878616601)](https://discord.com/users/668415216878616601)
