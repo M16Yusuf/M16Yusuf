@@ -23,9 +23,7 @@ Portfolio **Coming soon**
 
  </details>
 
- | Im active on discord | 
- |---|
- | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601)|  |
+
  
  
 <details><summary>Click to expand!</summary>          
@@ -61,3 +59,7 @@ Portfolio **Coming soon**
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
 </details>
+
+ | Im mostly active on discord | 
+ |---|
+ | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601)|  |
