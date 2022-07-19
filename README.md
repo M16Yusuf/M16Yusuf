@@ -17,10 +17,15 @@ Hopefully there is something useful for you.
 
 Portfolio **Coming soon**
 
- 
+ <details><summary> Im active on discord (Click to expand!)</summary> 
+
+     [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601)
+
+ </details>
+
  | Im active on discord | Most used Languages |
  |---|---|
- | [![Discord Presence](https://lanyard.cnrad.dev/api/668415216878616601?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
+ | | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) |
  
  
 <details><summary>Click to expand!</summary>          
