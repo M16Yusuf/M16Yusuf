@@ -24,10 +24,6 @@ Portfolio **Coming soon**
  </details>
 
 
- 
- 
-<details><summary> Social media (Click to expand!)</summary>          
-
 <!-- ## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -44,21 +40,16 @@ Portfolio **Coming soon**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white) -->
 
-## ✨ Social 
-<!-- Social media but Produktivity -->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
-<!-- [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ffffff?style=flat&logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/11044690/m16yusuf) -->
-
 [![Twitter](https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/M16Yusuf/)
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-00368c?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/m16yusuff/) -->
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
 <!-- [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf) -->
 
-</details>
+
 
  | Im mostly active on discord | 
  |---|
- | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=Offline%20mencari%20ayang...)](https://discord.com/users/668415216878616601)|  |
+ | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/668415216878616601)|  |
