@@ -15,7 +15,7 @@ I'm curently learning `android`, and basic of `UI UX Design`.
 There is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
-Portfolio <a href="https://m16yusuf.carrd.co"> **Click here** </a>
+<!-- Portfolio <a href="https://m16yusuf.carrd.co"> **Click here** </a> -->
 
  <details><summary> Github stats (Click to expand!)</summary> 
 
