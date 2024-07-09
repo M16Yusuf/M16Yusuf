@@ -7,21 +7,18 @@
 
 ## :wave: Hello 
 
-My name is **Muhammad Yusuf** a student from Indonesian Computer University.
-
+My name is **Muhammad Yusuf** a student from Indonesian.
 I love playing game, visual art, and little photography. 
 I'm curently learning `android`, and basic of `UI UX Design`.
-
 There is nothing here, only repositories of course assignments.
 Hopefully there is something useful for you.
 
 <!-- Portfolio <a href="https://m16yusuf.carrd.co"> **Click here** </a> -->
 
- <details><summary> Github stats (Click to expand!)</summary> 
-
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats) -->
-  [![m16yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)
- </details>
+ <!-- <details><summary> Github stats (Click to expand!)</summary> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M16Yusuf&layout=compact&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)
+ [![m16yusuf's github stats](https://github-readme-stats.vercel.app/api?username=M16Yusuf&show_icons=true&theme=tokyonight)](https://github.com/M16Yusuf/github-readme-stats)
+ </details> -->
 
 <!-- ## 🛠️ Tools, Languages, and Frameworks I Know and Study
 
@@ -40,12 +37,12 @@ Hopefully there is something useful for you.
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white) -->
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m16yusuf/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@m16yusuf)
 [![Twitter](https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/M16Yusuf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/M16Yusuf/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1)
-<!-- [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf) -->
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia?si=9520bb73572f4044&nd=1) -->
+[![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
 
 <!--
