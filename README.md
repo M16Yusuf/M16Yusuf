@@ -7,7 +7,7 @@
 
 ## :wave: Hello 
 
-My name is **Muhammad Yusuf** a student from Indonesian. <br>
+My name is **Muhammad Yusuf** a student from Indonesia. <br>
 I love playing game, visual art, and little photography. <br>
 I'm curently learning `android`, and basic of `UI UX Design`. <br>
 There is nothing here, only repositories of course assignments.
