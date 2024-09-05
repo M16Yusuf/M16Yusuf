@@ -45,8 +45,8 @@ Hopefully there is something useful for you.
 [![Other Social Media](https://img.shields.io/badge/Linktree-27b876?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/M16Yusuf)
 
 
-<!--
+
  | Im mostly active on discord | 
  |---|
- | [![Discord Presence](https://lanyard.cnrad.dev/api/668415216878616601?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/668415216878616601)|  |
--->
+ | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)|  |
+
