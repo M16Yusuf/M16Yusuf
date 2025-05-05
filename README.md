@@ -6,6 +6,11 @@
 </a>
 <!-- https://i.imgur.com/wZaLJ4Z.png -->
 
+<picture align="right" width="400">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
+</picture>
+
 ### :wave: Hello 
 
 My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interest with mobile programming. I'm curently learning **DevOps**, and **Flutter**.
@@ -31,12 +36,6 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
 <a href="https://facebook.com/m16yusuff">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" >
 </a>
-
-<br>
-<details><summary>mostly active on... </summary>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
-</detail>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
