@@ -21,7 +21,7 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![image](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
-### Reach me 
+### 🤝 Reach me 
 
 <a href="https://www.linkedin.com/in/m16yusuf/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" >
