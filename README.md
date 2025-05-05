@@ -39,11 +39,11 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
 </details>
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
-<!-- <img src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/snake.svg" alt="Snake animation" />
