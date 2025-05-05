@@ -2,8 +2,9 @@
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <a href="https://linktr.ee/M16Yusuf" target="#">
-    <img align="center" width="840px" src="https://i.imgur.com/wZaLJ4Z.png">
+    <img align="center" width="840px" src="img/bannergit-Manglayang.png">
 </a>
+<!-- https://i.imgur.com/wZaLJ4Z.png -->
 
 ## :wave: Hello 
 
