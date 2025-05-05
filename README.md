@@ -46,7 +46,7 @@ Hopefully there is something useful for you.
 
 
 
- | Im mostly active on discord | 
- |---|
- | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)|  |
+ | test | Im mostly active on discord | 
+ | --- |---|
+ | --- | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)|  |
 
