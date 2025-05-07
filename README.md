@@ -6,6 +6,20 @@
 </a>
 <!-- https://i.imgur.com/wZaLJ4Z.png -->
 
+<!-- profile visitor count -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/M16Yusuf/count.svg?"  />
+</div>
+
+<div align="right">
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
+
+  <a href="https://open.spotify.com/user/yu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ### :wave: Hello 
 
 My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interest with mobile programming. I'm curently learning **DevOps**, and **Flutter**.
