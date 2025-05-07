@@ -1,12 +1,6 @@
 <!-- 
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<a href="https://linktr.ee/M16Yusuf" target="#">
-    <img align="center" width="840px" src="img/bannergit-Manglayang.png">
-</a>
-<!-- https://i.imgur.com/wZaLJ4Z.png -->
-
-
 ## :wave: Hello, im  Muhammad Yusuf
 Junior fullstack web developer from indonesia. I have interest with mobile programming. I'm curently learning **DevOps**, and **Flutter**.
 
@@ -37,14 +31,3 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
   | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
   |---------------------------------|---------------------------------|
 </details>
-
-<br>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
-</picture> -->
-
-
-<!-- <img src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/snake.svg" alt="Snake animation" /> -->
