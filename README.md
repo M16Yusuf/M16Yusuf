@@ -16,7 +16,7 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
 
   <a href="https://open.spotify.com/user/yu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yu&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
