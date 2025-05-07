@@ -11,11 +11,6 @@
   <img src="https://profile-counter.glitch.me/M16Yusuf/count.svg?"  />
 </div>
 
-<table>
-<tr>
-<!-- column 1 : biodata -->
-<td>
-
 ### :wave: Hello 
 My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interest with mobile programming. I'm curently learning **DevOps**, and **Flutter**.
 
@@ -44,20 +39,15 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
 <br>
 <details><summary>mostly active on... </summary>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
-</details>
+  <div align="center">
 
-</td>
-<!-- column 2 : stat -->
-<td>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
 
   <a href="https://open.spotify.com/user/yu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  />
-  </a>
-</td>
-</tr>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
