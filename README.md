@@ -55,7 +55,7 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
   <a href="https://open.spotify.com/user/yu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  />
   </a>
-<td>
+</td>
 </tr>
 
 <picture>
