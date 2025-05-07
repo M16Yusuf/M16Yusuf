@@ -26,8 +26,8 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" >
 </a>
 
-<details><summary>mostly active on... </summary>
+<details><summary> Recent activity... </summary>
 
-  | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
+  | I'm mostly active on discord...  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
   |---------------------------------|---------------------------------|
 </details>
