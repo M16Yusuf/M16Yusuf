@@ -13,6 +13,7 @@
 
 <table>
 <tr>
+<!-- column 1 : biodata -->
 <td>
 
 ### :wave: Hello 
@@ -47,7 +48,7 @@ My name is **Muhammad Yusuf** fullstack developer from indonesia. I have interes
 </details>
 
 </td>
-
+<!-- column 2 : stat -->
 <td>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068)
