@@ -8,7 +8,7 @@
 
 <!-- profile visitor count -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=M16Yusuf&style=for-the-badge&color=brightgreen">
+  <img src="https://profile-counter.glitch.me/M16Yusuf/count.svg?"  width="200px"/>
 </div>
 
 ### :wave: Hello 
