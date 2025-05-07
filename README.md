@@ -33,11 +33,16 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 </a>
 
 <br>
+<br>
+
 <details><summary>mostly active on... </summary>
 
   | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
   |---------------------------------|---------------------------------|
 </details>
+
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
