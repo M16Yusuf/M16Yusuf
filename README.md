@@ -32,9 +32,6 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" >
 </a>
 
-<br>
-<br>
-
 <details><summary>mostly active on... </summary>
 
   | [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
@@ -43,11 +40,11 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 
 <br>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
 <!-- <img src="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/snake.svg" alt="Snake animation" /> -->
