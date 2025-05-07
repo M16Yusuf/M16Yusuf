@@ -42,7 +42,6 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 </details>
 
 <br>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M16Yusuf/M16Yusuf/output/pacman-contribution-graph-dark.svg">
