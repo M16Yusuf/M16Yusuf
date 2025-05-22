@@ -28,6 +28,6 @@ Junior fullstack web developer from indonesia. I have interest with mobile progr
 
 <details><summary> Recent activity... </summary>
 
-  | I'm mostly active on discord...  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/yu"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=4" alt="Spotify recently played"  /> </a> |
+  | I'm mostly active on discord...  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
   |---------------------------------|---------------------------------|
 </details>
