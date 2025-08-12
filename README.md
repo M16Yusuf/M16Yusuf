@@ -36,9 +36,9 @@
 
 </details>
 
-<img src="/metrics.plugin.isocalendar.svg" align="right">
-
 ## :wave: Hello, im Muhammad Yusuf
+
+<img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
 Fullstack web developer from indonesia. I have interest with web and mobile programming. I'm curently learning **Go language**, **React JS**, **React Native**, and **Docker**.
 
