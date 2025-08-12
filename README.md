@@ -25,9 +25,8 @@
 
 <details align="center">
   <summary>
-    
-  ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=discord" width="18px"> 
+  <span><b>Discord</b></span>
   </summary>
 
 <a href="https://discord.com/users/315664173021528068"> 
@@ -40,7 +39,19 @@
 
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
-Fullstack web developer from indonesia. I have interest with web and mobile programming. I'm curently learning **Go language**, **React JS**, **React Native**, and **Docker**.
+Fullstack web developer from indonesia.
+
+- 🧑‍💻 Currently studying **fullstack developer** onsite bootcamp at [Koda tech academy](https://www.instagram.com/kodacademy.id/)
+
+- 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://unikom.ac.id/)
+
+- 📚 Currently learning **Go language**, **React JS**, **React Native**, and **Docker**.
+
+- 💡 I have interest with web and mobile programming.
+
+- ❤️ Love to explore more about technology.
+
+- 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
 #### 🛠️ Tools and Languages that I use and study
 
@@ -54,4 +65,11 @@ Fullstack web developer from indonesia. I have interest with web and mobile prog
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
 
+<details align="center">
+  <summary>
+      Expand more stats 
+  </summary>
+
 <a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a>
+
+</details>
