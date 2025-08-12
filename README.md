@@ -43,13 +43,17 @@ Fullstack web developer from indonesia.
 
 - 🧑‍💻 Currently studying **fullstack developer** onsite bootcamp at [Koda tech academy](https://www.instagram.com/kodacademy.id/)
 
-- 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://unikom.ac.id/)
+- 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://www.instagram.com/unikom_official/)
 
-- 📚 Currently learning **Go language**, **React JS**, **React Native**, and **Docker**.
+- 📚 Currently learning **Go language**, **React JS**, and **Docker**.
 
 - 💡 I have interest with web and mobile programming.
 
 - ❤️ Love to explore more about technology.
+
+- 🌐 Check out my portfolio (coming soon)
+
+- 💪 Hobbies: 🎮 gaming, 🏃‍♂️ jogging, 📷 photography
 
 - 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
@@ -61,7 +65,7 @@ Fullstack web developer from indonesia.
 
 ![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
 ![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,vite,bootstrap,laravel)
-![tools](https://skillicons.dev/icons?i=postgres,mysql,vscode,arduino,git,figma,blender)
+![tools](https://skillicons.dev/icons?i=postgres,mysql,vscode,linux,arduino,git,figma,blender)
 
 </div>
 
