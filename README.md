@@ -23,15 +23,28 @@
 </a>
 </div>
 
+<details align="center">
+  <summary>
+    
+  ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+  </summary>
+
+<a href="https://discord.com/users/315664173021528068"> 
+<img src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20..."  align="center">
+</a>
+
+</details>
+
 ## :wave: Hello, im Muhammad Yusuf
 
 Fullstack web developer from indonesia. I have interest with web and mobile programming. I'm curently learning **Go language**, **React JS**, **React Native**, and **Docker**.
 
-<a href="https://discord.com/users/315664173021528068"> 
-<img src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20..."  align="right">
-</a>
-
 #### 🛠️ Tools and Languages that I use and study
+
+<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" align="right" alt="Spotify recently played"  /> </a>
+
+<!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
@@ -40,5 +53,3 @@ Fullstack web developer from indonesia. I have interest with web and mobile prog
 ![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
-
-<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" align="right" alt="Spotify recently played"  /> </a>
