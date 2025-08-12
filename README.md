@@ -53,7 +53,7 @@ Fullstack web developer from indonesia.
 
 - 🌐 Check out my portfolio (coming soon)
 
-- 💪 Hobbies: 🎮 gaming, 🏃‍♂️ jogging, 📷 photography
+- 💪 Hobbies: [🎮 gaming](https://www.youtube.com/@YushaaID/), 🏃‍♂️ jogging, [📷 photography](https://www.instagram.com/yushaa.photography/)
 
 - 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
