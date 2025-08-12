@@ -60,8 +60,8 @@ Fullstack web developer from indonesia.
 <!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
 ![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
-![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap,laravel,codeigniter)
-![tools](https://skillicons.dev/icons?i=postgres,mysql,nodejs,vite,vscode,arduino,git,figma,blender)
+![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,vite,bootstrap,laravel)
+![tools](https://skillicons.dev/icons?i=postgres,mysql,vscode,arduino,git,figma,blender)
 
 </div>
 
