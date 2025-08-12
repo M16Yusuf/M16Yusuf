@@ -1,33 +1,44 @@
-<!-- 
+<!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## :wave: Hello, im  Muhammad Yusuf
-Junior fullstack web developer from indonesia. I have interest with mobile programming. I'm curently learning **DevOps**, and **Flutter**.
+![banner](/img/bannergit-Manglayang.png)
+
+###
+
+<div align="center">
+<a href="https://www.linkedin.com/in/m16yusuf/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+
+<a href="https://twitter.com/M16Yusuf" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white" >
+</a>
+
+<a href="https://www.instagram.com/M16Yusuf/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" >
+</a>
+
+<a href="https://facebook.com/m16yusuff" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >
+</a>
+</div>
+
+## :wave: Hello, im Muhammad Yusuf
+
+Fullstack web developer from indonesia. I have interest with web and mobile programming. I'm curently learning **Go language**, **React JS**, **React Native**, and **Docker**.
+
+<a href="https://discord.com/users/315664173021528068"> 
+<img src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20..."  align="right">
+</a>
 
 #### 🛠️ Tools and Languages that I use and study
 
-![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![image](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-#### 🤝 Reach me 
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-<a href="https://www.linkedin.com/in/m16yusuf/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" >
-</a>
+![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://twitter.com/M16Yusuf">
-<img src="https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=Twitter&logoColor=white" >
-</a>
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
 
-<a href="https://www.instagram.com/M16Yusuf/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" >
-</a>
-
-<a href="https://facebook.com/m16yusuff">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" >
-</a>
-
-<details><summary> Recent activity... </summary>
-
-  | I'm mostly active on discord...  [![Discord Presence](https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...)](https://discord.com/users/315664173021528068) | <a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a> |
-  |---------------------------------|---------------------------------|
-</details>
+<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" align="right" alt="Spotify recently played"  /> </a>
