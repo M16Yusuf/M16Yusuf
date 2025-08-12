@@ -36,13 +36,13 @@
 
 </details>
 
+<img src="/metrics.plugin.isocalendar.svg" align="right">
+
 ## :wave: Hello, im Muhammad Yusuf
 
 Fullstack web developer from indonesia. I have interest with web and mobile programming. I'm curently learning **Go language**, **React JS**, **React Native**, and **Docker**.
 
 #### 🛠️ Tools and Languages that I use and study
-
-<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" align="right" alt="Spotify recently played"  /> </a>
 
 <!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
@@ -53,3 +53,5 @@ Fullstack web developer from indonesia. I have interest with web and mobile prog
 ![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
+
+<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a>
