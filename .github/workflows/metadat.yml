@@ -1,11 +1,11 @@
 name: "Build metrics"
 on:
-  push:
-    branches: -master
   # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
   # Run workflow manually
   workflow_dispatch:
+  push:
+    branches: -master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
