@@ -53,17 +53,17 @@ Fullstack web developer from indonesia.
 
 - 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
+<div align="center">
+
 #### 🛠️ Tools and Languages that I use and study
 
 <!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
+![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap,laravel,codeigniter)
+![tools](https://skillicons.dev/icons?i=postgres,mysql,nodejs,vite,vscode,arduino,git,figma,blender)
 
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-
-![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
+</div>
 
 <details align="center">
   <summary>
