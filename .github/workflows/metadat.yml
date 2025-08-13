@@ -1,14 +1,16 @@
-name: "Build metrics"
+name: "Isometric commit calendar"
 on:
   # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
   # Run workflow manually
   workflow_dispatch:
-  push:
-    branches: -master
+  # (optional) Run workflow when pushing on master/main
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -16,4 +18,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }} # Your GitHub token
           base: "" # No base metrics needed for isometric calendar
           plugin_isocalendar: yes # Enable the isometric calendar plugin
-          plugin_isocalendar_duration: half-year # Or full-year
+          # plugin_isocalendar_duration: half-year # Or full-year
