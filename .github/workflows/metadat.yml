@@ -18,4 +18,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }} # Your GitHub token
           base: "" # No base metrics needed for isometric calendar
           plugin_isocalendar: yes # Enable the isometric calendar plugin
-          plugin_isocalendar_duration: half-year # Or full-year
+          plugin_isocalendar_duration: full-year # Or half-year
