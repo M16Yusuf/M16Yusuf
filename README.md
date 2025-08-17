@@ -64,8 +64,8 @@ Fullstack web developer from indonesia.
 <!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
 ![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
-![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,vite,bootstrap,laravel)
-![tools](https://skillicons.dev/icons?i=postgres,mysql,vscode,linux,arduino,git,figma,blender)
+![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,vite,bootstrap)
+![tools](https://skillicons.dev/icons?i=postgres,mysql,docker,vscode,linux,arduino,git,figma,blender)
 
 </div>
 
@@ -74,6 +74,10 @@ Fullstack web developer from indonesia.
       Expand more stats 
   </summary>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m16yusuf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  align="right" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=m16yusuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"   />
+  
 <a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a>
 
 </details>
