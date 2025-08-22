@@ -22,9 +22,8 @@
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer" />
+<!-- [![Typing SVG]()](https://git.io/typing-svg) -->
 </div>
 
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
