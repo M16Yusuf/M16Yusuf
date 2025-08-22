@@ -3,19 +3,17 @@
 
 ![banner](/img/bannergit-Manglayang.png)
 
-###
-
 <div align="center">
 <a href="https://www.linkedin.com/in/m16yusuf/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
-<a href="https://twitter.com/M16Yusuf" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white" >
-</a>
-
 <a href="https://www.instagram.com/M16Yusuf/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" >
+</a>
+
+<a href="https://twitter.com/M16Yusuf" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white" >
 </a>
 
 <a href="https://facebook.com/m16yusuff" target="_blank">
@@ -23,19 +21,11 @@
 </a>
 </div>
 
-<details align="center">
-  <summary>
-  <img src="https://skillicons.dev/icons?i=discord" width="18px"> 
-  <span><b>Discord</b></span>
-  </summary>
+<div align="center">
 
-<a href="https://discord.com/users/315664173021528068"> 
-<img src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20..."  align="center">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
-</details>
-
-## :wave: Hello, im Muhammad Yusuf
+</div>
 
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
@@ -70,14 +60,21 @@ Fullstack web developer from indonesia.
 </div>
 
 <details align="center">
-  <summary>
-      Expand more stats 
-  </summary>
+  <summary><h3 style="display:inline;">Expand more stats 🔥</h3></summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m16yusuf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  align="right" />
+  <!-- statistic -->
+  <div align="center">
+    <a href="https://github.com/m16yusuf/">
+    <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=m16yusuf&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br>
+    <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m16yusuf&layout=compact&langs_count=10&theme=dracula&hide_border=true&"/>
+    <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=m16yusuf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=m16yusuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"   />
-  
-<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"  /> </a>
+<div align="center">
+<a href="https://discord.com/users/315664173021528068"> 
+<img height="165em" src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...">
+</a>
+<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia" style="display:inline;"> <img  width="300em"  src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"/> </a>
+</div>
 
 </details>
