@@ -1,7 +1,7 @@
 <!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![banner](/img/bannergit-Manglayang.png)
+[![banner](/img/bannergit-Manglayang.png)](https://linktr.ee/m16yusuf)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/m16yusuf/" target="_blank">
@@ -23,7 +23,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Yusuf;%F0%9F%92%BB+Fullstack+Web+Developer)](https://linktr.ee/m16yusuf)
 
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
