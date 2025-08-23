@@ -21,10 +21,9 @@
 </a>
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer" />
-<!-- [![Typing SVG]()](https://git.io/typing-svg) -->
-</div>
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+Im+Muhammad+Yusuf;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
@@ -48,23 +47,23 @@ Fullstack web developer from indonesia.
 
 <div align="center">
 
-#### 🛠️ Tools and Languages that I use and study
+### 🛠️ Tools and Languages that I use and study
 
 <!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
 
 ![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
-![framework](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,vite,bootstrap)
+![framework](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nodejs,vite)
 ![tools](https://skillicons.dev/icons?i=postgres,mysql,docker,vscode,linux,arduino,git,figma,blender)
 
 </div>
 
 <details align="center">
-  <summary><h3 style="display:inline;">Expand more stats 🔥</h3></summary>
+  <summary><h3 style="display:inline;">🔥 Expand more stats</h3></summary>
 
   <!-- statistic -->
   <div align="center">
     <a href="https://github.com/m16yusuf/">
-    <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=m16yusuf&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br>
+    <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=m16yusuf&theme=dracula&hide_border=true&"/><br>
     <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m16yusuf&layout=compact&langs_count=10&theme=dracula&hide_border=true&"/>
     <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=m16yusuf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
 </div>
