@@ -39,7 +39,7 @@ Fullstack web developer from indonesia.
 
 - ❤️ Love to explore more about technology.
 
-- 🌐 Check out my portfolio (coming soon)
+- 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/).
 
 - 💪 Hobbies: [🎮 gaming](https://www.youtube.com/@YushaaID/), 🏃‍♂️ jogging, [📷 photography](https://www.instagram.com/yushaa.photography/)
 
