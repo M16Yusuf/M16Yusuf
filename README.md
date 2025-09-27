@@ -44,7 +44,7 @@ Fullstack web developer from indonesia.
 - 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
 <details align="center">
-  <summary><h3 style="display:inline;">🔥 Expand more stats</h3></summary>
+  <summary><h3 style="display:inline;"> (👆 click!) Expand more stats</h3></summary>
 
 <!-- techstack -->
 <div align="center">
