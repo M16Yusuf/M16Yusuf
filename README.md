@@ -1,7 +1,11 @@
 <!--
 **M16Yusuf/M16Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![banner](/img/bannergit-Manglayang.png)](https://linktr.ee/m16yusuf)
+<!-- [![banner](/img/bannergit-Manglayang.png)](https://linktr.ee/m16yusuf) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Yusuf;%F0%9F%92%BB+Fullstack+Web+Developer)](https://linktr.ee/m16yusuf)
+
+###
 
 <div align="center">
 <a href="https://www.linkedin.com/in/m16yusuf/" target="_blank">
@@ -21,10 +25,6 @@
 </a>
 </div>
 
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Yusuf;%F0%9F%92%BB+Fullstack+Web+Developer)](https://linktr.ee/m16yusuf)
-
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
 Fullstack web developer from indonesia.
@@ -33,23 +33,23 @@ Fullstack web developer from indonesia.
 
 - 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://www.instagram.com/unikom_official/)
 
-- 📚 Currently learning **Go language**, **React JS**, and **Docker**.
+- 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/).
 
 - 💡 I have interest with web and mobile programming.
 
 - ❤️ Love to explore more about technology.
 
-- 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/).
-
 - 💪 Hobbies: [🎮 gaming](https://www.youtube.com/@YushaaID/), 🏃‍♂️ jogging, [📷 photography](https://www.instagram.com/yushaa.photography/)
 
 - 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
 
+<details align="center">
+  <summary><h3 style="display:inline;">🔥 Expand more stats</h3></summary>
+
+<!-- techstack -->
 <div align="center">
 
-### 🛠️ Tools and Languages that I use and study
-
-<!-- <img src="https://skillicons.dev/icons?i=js,go,git,kubernetes,docker,c,vim" /> -->
+## 🛠️ Tools and Languages that I use and study
 
 ![languange](https://skillicons.dev/icons?i=js,go,php,java,cpp,python)
 ![framework](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nodejs,vite)
@@ -57,18 +57,21 @@ Fullstack web developer from indonesia.
 
 </div>
 
-<details align="center">
-  <summary><h3 style="display:inline;">🔥 Expand more stats</h3></summary>
+<!-- statistic -->
+<div align="center">
 
-  <!-- statistic -->
-  <div align="center">
-    <a href="https://github.com/m16yusuf/">
-    <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=m16yusuf&theme=dracula&hide_border=true&"/><br>
-    <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m16yusuf&layout=compact&langs_count=10&theme=dracula&hide_border=true&"/>
-    <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=m16yusuf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
+## 📈 More stats
+
+  <a href="https://github.com/m16yusuf/">
+  <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=m16yusuf&theme=dracula&hide_border=true&"/><br>
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m16yusuf&layout=compact&langs_count=10&theme=dracula&hide_border=true&"/>
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=m16yusuf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/> </a>
 </div>
 
 <div align="center">
+
+## 🌐 Recent activity
+
 <a href="https://discord.com/users/315664173021528068"> 
 <img height="165em" src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...">
 </a>
