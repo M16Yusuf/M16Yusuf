@@ -7,41 +7,16 @@
 
 ###
 
-<div align="center">
-<a href="https://www.linkedin.com/in/m16yusuf/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-
-<a href="https://www.instagram.com/M16Yusuf/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" >
-</a>
-
-<a href="https://twitter.com/M16Yusuf" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=Twitter&logoColor=white" >
-</a>
-
-<a href="https://facebook.com/m16yusuff" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >
-</a>
-</div>
-
 <img src="/metrics.plugin.isocalendar.svg" align="right" width="370px">
 
 Fullstack web developer from indonesia.
 
-- 🧑‍💻 Currently studying **fullstack developer** onsite bootcamp at [Koda tech academy](https://www.instagram.com/kodacademy.id/)
-
+- 🎓 Completed the **Fullstack Developer** onsite bootcamp at [Koda tech academy](https://www.instagram.com/kodacademy.id/)
 - 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://www.instagram.com/unikom_official/)
-
 - 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/).
-
-- 💡 I have interest with web and mobile programming.
-
 - ❤️ Love to explore more about technology.
-
-- 💪 Hobbies: [🎮 gaming](https://www.youtube.com/@YushaaID/), 🏃‍♂️ jogging, [📷 photography](https://www.instagram.com/yushaa.photography/)
-
-- 💬 I'm mostly active within [facebook](https://facebook.com/m16yusuff), [instagram](https://www.instagram.com/M16Yusuf/), and [discord](https://discord.com/users/315664173021528068)
+- 🤝 I’m looking to collaborate on Open Source projects.
+- 💬 Contact me : [linkedin](https://www.linkedin.com/in/m16yusuf/), [instagram](https://www.instagram.com/M16Yusuf/), [twitter](https://x.com/M16Yusuf)
 
 <details align="center">
   <summary><h3 style="display:inline;"> (👆 click!) Expand more stats</h3></summary>
