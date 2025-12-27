@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg # Name of the output SVG file
-          token: ${{ secrets.METRICS_TOKEN }} # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }} # Your GitHub token
           base: "" # No base metrics needed for isometric calendar
           plugin_isocalendar: yes # Enable the isometric calendar plugin
           plugin_isocalendar_duration: full-year # Or half-year
