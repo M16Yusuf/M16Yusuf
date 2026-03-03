@@ -56,14 +56,4 @@ Fullstack web developer from indonesia.
   <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=m16yusuf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/> </a>
 </div>
 
-<div align="center">
-
-## 🌐 Recent activity
-
-<a href="https://discord.com/users/315664173021528068"> 
-<img height="165em" src="https://lanyard.cnrad.dev/api/315664173021528068?hideBadges=false&idleMessage=currently%20offline%20...">
-</a>
-<a href="https://open.spotify.com/user/317neqyhvguhqivgdisjf5rvzgia" style="display:inline;"> <img  width="300em"  src="https://spotify-recently-played-readme.vercel.app/api?user=317neqyhvguhqivgdisjf5rvzgia&count=5" alt="Spotify recently played"/> </a>
-</div>
-
 </details>
