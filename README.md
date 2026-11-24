@@ -14,7 +14,7 @@ Fullstack web developer from indonesia.
 - 💼 I'm Currently working as frontend developer
 - 🎓 Completed **Bootcamp Fullstack Web Developer** intensif at [Koda tech academy](https://www.instagram.com/kodacademy.id/)
 - 🎓 Graduate, Informatic engineering from [Universitas Komputer Indonesia](https://www.instagram.com/unikom_official/)
-- 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/).
+<!-- - 🌐 Check out my portfolio [here](https://m16yusuf.vercel.app/). -->
 - ❤️ Love to explore more about technology.
 - 🤝 I’m looking to collaborate on Open Source projects.
 - 📬 Contact me : [linkedin](https://www.linkedin.com/in/m16yusuf/), [instagram](https://www.instagram.com/M16Yusuf/), yusufsmd58@gmail.com
